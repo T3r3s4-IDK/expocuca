@@ -1,2 +1,2 @@
-# expocuca
-A project for my school's event
+# ExpoCUCA
+A simple project for my school's event
